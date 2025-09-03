@@ -86,7 +86,7 @@ Unlike traditional hospital systems, this project focuses on **simplicity, usabi
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Prathush-Kumar/Integrated-Hospital-Management-and-Doctor-Consultation-Request.git
-cd Integrated-Hospital-Management-and-Doctor-Consultation-Request ```
+cd Integrated-Hospital-Management-and-Doctor-Consultation-Request 
 
 ### Compile the Project
 javac Main.java
