@@ -85,6 +85,6 @@ Unlike traditional hospital systems, this project focuses on **simplicity, usabi
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Hospital-Information-and-Appointment-Management-System.git
-cd Hospital-Information-and-Appointment-Management-System
+git clone https://github.com/Prathush-Kumar/Integrated-Hospital-Management-and-Doctor-Consultation-Request.git
+cd Integrated-Hospital-Management-and-Doctor-Consultation-Request
 
