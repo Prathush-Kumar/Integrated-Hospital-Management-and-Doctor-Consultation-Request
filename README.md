@@ -89,7 +89,6 @@ git clone https://github.com/Prathush-Kumar/Integrated-Hospital-Management-and-D
 cd Integrated-Hospital-Management-and-Doctor-Consultation-Request ```
 
 ### Compile the Project
-```bash
 javac Main.java
 
 ### Run the Application
